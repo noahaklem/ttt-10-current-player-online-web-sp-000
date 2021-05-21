@@ -4,4 +4,5 @@ def turn_count(board)
     if board[turn] == "X" || board[turn] == "O"
       counter +=1
     end
+  end
 end
